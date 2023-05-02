@@ -1,0 +1,45 @@
+0, Ana, Santos, 25, ana@test.com
+1, The Alchemist, 2000, bks0001, C
+1, The Catcher in the Rye, 1700, bks0008, C
+0, Bruno, Ferreira, 45, bruno@test.com
+1, The Lord of The Rings, 3500, bks0002, V
+0, Carolina, Lima, 28, carol@test.com
+1, The Girl on the Train, 1500, bks0003, C
+1, To Kill a Mockingbird, 1900, bks0007, V
+1, Animal Farm, 1600, bks0011, C
+0, Daniel, Oliveira, 33, daniel@test.com
+1, 1984, 1800, bks0004, V
+0, Elisa, Costa, 40, elisa@test.com
+1, Harry Potter and the Philosopher's Stone, 2500, bks0005, C
+1, Pride and Prejudice, 2100, bks0010, V
+0, Fabio, Castro, 20, fabio@test.com
+1, The Hunger Games, 1300, bks0006, C
+0, Gabriela, Almeida, 50, gabriela@test.com
+1, Brave New World, 2000, bks0012, V
+1, Crime and Punishment, 2400, bks0013, C
+0, Henrique, Sousa, 30, henrique@test.com
+1, The Catcher in the Rye, 1700, bks0008, V
+1, The Da Vinci Code, 3000, bks0015, C
+0, Isabel, Ferreira, 27, isabel@test.com
+1, The Great Gatsby, 2200, bks0009, V
+1, Animal Farm, 1600, bks0011, C
+0, Joana, Ramos, 21, joana@test.com
+1, Pride and Prejudice, 2100, bks0010, C
+1, 1984, 1800, bks0004, V
+0, Leonardo, Ribeiro, 38, leonardo@test.com
+1, Animal Farm, 1600, bks0011, V
+1, The Girl on the Train, 1500, bks0003, C
+1, Harry Potter and the Philosopher's Stone, 2500, bks0005, C
+0, Mariana, Costa, 31, mariana@test.com
+1, Brave New World, 2000, bks0012, V
+1, To Kill a Mockingbird, 1900, bks0007, C
+1, The Lord of The Rings, 3500, bks0002, C
+0, Nuno, Rodrigues, 44, nuno@test.com
+1, Crime and Punishment, 2400, bks0013, V
+1, The Hobbit, 2800, bks0014, C
+0, Olivia, Mendes, 29, olivia@test.com
+1, The Alchemist, 2000, bks0001, V
+1, The Hunger Games, 1300, bks0006, V
+1, The Great Gatsby, 2200, bks0009, C
+0, Pedro, Santos, 23, pedro@test.com
+1, The Da Vinci Code, 3000, bks0015, C
